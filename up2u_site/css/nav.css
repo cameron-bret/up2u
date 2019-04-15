@@ -58,11 +58,13 @@
 }
 
 .footer {
+  display: flex;
+  justify-content: center;
   position: fixed;
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color: red;
+  background-color: rgb(53, 96, 45);
   color: white;
   text-align: center;
 }
